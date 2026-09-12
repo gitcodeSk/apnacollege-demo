@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is My First Repository.
 <br>
-Author - Shivam Shivam
+Author - Shivam Code
